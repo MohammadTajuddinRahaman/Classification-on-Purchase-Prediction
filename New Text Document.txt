@@ -1,0 +1,1 @@
+How can we use machine learning in Python to classify social media ad responses—predicting whether a person will purchase a product based on features like age and estimated salary?
